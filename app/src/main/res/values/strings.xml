@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="score">Placar:</string>
+    <string name="points_X">X: 0</string>
+    <string name="points_O">O: 0</string>
+    <string name="reset">Reiniciar jogo</string>
+</resources>
