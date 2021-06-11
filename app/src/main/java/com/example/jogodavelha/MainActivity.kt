@@ -21,8 +21,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        textViewX = findViewById(R.id.points_X)
-        textViewO = findViewById(R.id.points_O)
+        textViewX = findViewById(R.id.points_x)
+        textViewO = findViewById(R.id.points_o)
 
         buttons = Array(3){ r->
             Array(3) { c->

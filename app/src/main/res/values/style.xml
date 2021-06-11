@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Text_Default">
+        <item name="android:textSize">24dp</item>
+        <item name="android:textColor">#f0f0f0</item>
+        <item name="android:fontFamily">casual</item>
+    </style>
+    <style name="Button_Game">
+        <item name="android:textSize">40dp</item>
+    </style>
+</resources>
